@@ -2,4 +2,4 @@ Library required to run all of the Jupiter notebooks: os, pandas, statsmodles, t
 
 Data Cleaning:To get to the final merged dataset in our final report, run the jupyter notebook of dataProcessingPlayersData.ipynb,dataProcessingTrackingData.ipynb and finalDataMerge.ipynb. This should generate the final merged dataset of our project. You probably also would like to get the original dataset from gaggle and the link to this competition is https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/data. We have also gathered additional dataset from third-party website from Madden NFL, and the link to Madden 23 Player Ratings.csv is https://www.kaggle.com/code/dtrade84/madden-23-player-ratings-analysis/input
 
-Get the model Running: Simply run lightgbm_david.ipynb script to get the final results of the tree model and run ZhangHanNN.ipynb to get the final results of the neural network model. 
+Get the model Running: Simply run lightgbm_david.ipynb script to get the final results of the tree model and run ZhangHanNN.ipynb to get the final results of the neural network model. NOTE: please change the directory path accordingly to import the original datasets.
